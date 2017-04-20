@@ -1,0 +1,6 @@
+Team members:
+Kaavya Rekanar- 9405217184
+Siva Venkata Prasad Patta-9312217137
+Venkatesh Nagadevara- 9412206551
+
+We are aiming for E grade.The code has been implemented using Minimax with Depth First search stopping at a pre-defined depth level(>4)
